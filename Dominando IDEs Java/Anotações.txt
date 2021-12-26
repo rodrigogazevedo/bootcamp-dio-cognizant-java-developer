@@ -1,0 +1,25 @@
+- Java é uma linguagem interpretada
+
+Ao escrever um programa java, ele é salvado na extensão .java.
+O compilador compila para um arquivo .class.
+Então é interpretado pela JVM para poder ser executada.
+
+- Java não é presa ao SO ou ao hardware, pois seus programas rodam através de uma máquina virtual.
+
+- Fases de Execução Java
+
+1. Escrevemos o código fonte (extensão .java).
+2. Utilizamos o JDK para compilar o código-fonte para gerar o bytecode (extensão .class).
+3. Para executar o programa, a JVM lê o arquivo .class e as bibliotecas padrões do Java que estão no JRE.
+
+- JDK: kit de desenvolvimento Java responsável por compilar código-fonte (.java) em bytecode.
+- JVM: máquina virtual do Java responsável por executar o bytecode (.class)
+- JRE: ambiente de execução do Java que fornece as bibliotecas padrões do Java para o JDK compilar o seu código e para a JVM executar o seu programa.
+
+OpenJDK - Java open source com uma GNU General Public License
+JDK Oracle - requer uma licença comercial sob o contrato de licença de código binário Oracle
+
+- IDE's:
+* Eclipse: É uma IDE para desenvolvimento Java, porém suporta várias outras linguagens. Ele foi feito em Java e segue o modelo open source de desenvolvimento de software.
+
+* Intellij Java: É um ambiente de desenvolvimento integrado escrito em Java para o desenvolvimento de software de computador. Está disponível como uma edição da comunidade licenciada Apache2 e em uma edição comercial proprietária.
